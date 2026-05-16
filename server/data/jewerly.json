@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "whom": "woman",
+    "categories": "circle",
+    "material": "diamonds",
+    "brand": "Mercury"
+  },
+  {
+    "id": 2,
+    "whom": "man",
+    "categories": "bracelet",
+    "material": "white gold",
+    "brand": "Cartier"
+  },
+  {
+    "id": 3,
+    "whom": "kid",
+    "categories": "necklace",
+    "material": "yellow gold",
+    "brand": "Chopard"
+  },
+  {
+    "id": 4,
+    "whom": "woman",
+    "categories": "earrings",
+    "material": "rose gold",
+    "brand": "Graff"
+  },
+  {
+    "id": 5,
+    "whom": "man",
+    "categories": "brooches",
+    "material": "diamonds",
+    "brand": "Mercury"
+  },
+  {
+    "id": 6,
+    "whom": "kid",
+    "categories": "circle",
+    "material": "white gold",
+    "brand": "Cartier"
+  },
+  {
+    "id": 7,
+    "whom": "woman",
+    "categories": "bracelet",
+    "material": "yellow gold",
+    "brand": "Chopard"
+  },
+  {
+    "id": 8,
+    "whom": "man",
+    "categories": "necklace",
+    "material": "rose gold",
+    "brand": "Graff"
+  },
+  {
+    "id": 9,
+    "whom": "kid",
+    "categories": "earrings",
+    "material": "diamonds",
+    "brand": "Mercury"
+  },
+  {
+    "id": 10,
+    "whom": "woman",
+    "categories": "brooches",
+    "material": "white gold",
+    "brand": "Cartier"
+  }
+]
