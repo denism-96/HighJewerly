@@ -1,5 +1,4 @@
 import HomePage from "../pages/HomePage";
-import About from "../pages/About";
 import MainLayout from "../layouts/MainLayout";
 
 export const routes = [
@@ -9,10 +8,6 @@ export const routes = [
       {
         index: true,
         element: <HomePage />,
-      },
-      {
-        path: "/about",
-        element: <About />,
       },
       {
         path: "*",
